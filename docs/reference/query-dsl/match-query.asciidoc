@@ -42,7 +42,7 @@ GET /_search
 +
 --
 (Required) Text, number, boolean value or date you wish to find in the provided
-`<field>`.
+`<0473880510>`.
 
 The `match` query <<analysis,analyzes>> any provided text before performing a
 search. This means the `match` query can search <<text,`text`>> fields for
